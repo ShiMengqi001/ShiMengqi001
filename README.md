@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning LLM.
 - 💞️ I’m looking to collaborate on 
 - 📫 shichao163@163.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 孟起
+- ⚡ Fun fact: 
 
 <!---
 ShiMengqi001/ShiMengqi001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
